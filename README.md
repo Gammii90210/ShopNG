@@ -140,7 +140,7 @@ The following pages show the actual rendered UI of the application. Each screen 
 
 The entry point of the app. Shows a hero banner with a discount badge, a 6-category grid, 8 featured product cards with real photos, and a trust strip.
 
-![Home page — hero banner, category grid, featured product cards] [![Play Game](https://img.shields.io/badge/Play-Live_Demo-green?style=for-the-badge&logo=googlechrome)](shopng-Account.png)
+![Home page](shopng-home.png)
 | | |
 |---|---|
 | **Hero banner** | Purple brand colour with "40% off" badge and free delivery message. |
@@ -154,7 +154,7 @@ The entry point of the app. Shows a hero banner with a discount badge, a 6-categ
 
 50 products in a 3-column grid. The filter sidebar lets users narrow by category, price range and rating. The search bar in the navbar triggers live results as you type.
 
-![Products page — filter sidebar, live search banner, product grid](shopng_all_pages_uiux.html - Google Chrome 5_7_2026 7_03_35 AM.png)
+![Products page](shopng-ProductSearch.png)
 
 | | |
 |---|---|
@@ -169,7 +169,7 @@ The entry point of the app. Shows a hero banner with a discount badge, a 6-categ
 
 Full product view with large photo, pricing with savings shown in green, description, quantity selector, add to cart, wishlist toggle and customer reviews.
 
-![Product detail page — large photo, price, add to cart, reviews](shopng_all_pages_uiux.html - Google Chrome 5_7_2026 7_05_10 AM.png)
+![Product detail ](shopng-Productdetail.png)
 
 | | |
 |---|---|
@@ -184,7 +184,7 @@ Full product view with large photo, pricing with savings shown in green, descrip
 
 All cart items with real product thumbnails, inline quantity controls, item totals and a sticky order summary panel with transparent VAT breakdown.
 
-![Cart page — product thumbnails, qty controls, VAT breakdown, order summary](shopng_all_pages_uiux.html - Google Chrome 5_7_2026 7_07_29 AM.png)
+![Cart page](shopng-CustomerReview.png)
 
 | | |
 |---|---|
@@ -199,7 +199,8 @@ All cart items with real product thumbnails, inline quantity controls, item tota
 
 A clean 3-step checkout flow. Delivery address with Nigerian format fields, then payment method selection (card, bank transfer, USSD), then order confirmation.
 
-![Checkout page — 4-step progress bar, delivery form, payment options](shopng_all_pages_uiux.html - Google Chrome 5_7_2026 7_08_59 AM.png)
+![Checkout page](shopng-Checkout.png)
+
 
 | | |
 |---|---|
@@ -214,7 +215,7 @@ A clean 3-step checkout flow. Delivery address with Nigerian format fields, then
 
 User profile page with 4 tabs — Orders, Wishlist, Addresses and Settings. Order history shows product thumbnails, amounts and colour-coded status badges.
 
-![Account page — profile header, order history, status badges](shopng_all_pages_uiux.html - Google Chrome 5_7_2026 7_10_33 AM.png)
+![Account page](shopng-Account.png)
 
 | | |
 |---|---|
